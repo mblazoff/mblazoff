@@ -3,7 +3,7 @@
 # Hi there, I'm Mike! 👋
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CE1126&center=true&vCenter=true&width=435&lines=Systems+Engineer+%E2%9A%99%EF%B8%8F;Mac+Administrator+%F0%9F%96%A5%EF%B8%8F;Automation+Engineer+%F0%9F%A4%96;LGRW!+%F0%9F%9A%A8" alt="Mike's Typing Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CE1126&center=true&vCenter=true&width=500&lines=Systems+Engineer+%E2%9A%99%EF%B8%8F;Cyber+Security+Professional+%F0%9F%9F%A2;Mac+Administrator+%F0%9F%96%A5%EF%B8%8F;Automation+Engineer+%F0%9F%A4%96;LGRW!+%F0%9F%9A%A8" alt="Mike's Typing Stats" />
 </a>
 
 <br />
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Systems Engineer** specializing in **macOS management**, **Jamf Pro automation**, and building tools to make IT life easier. I focus on zero-dependency scripting, security auditing, and user experience.
+I am a **Systems Engineer** and **Cyber Security Professional** specializing in **macOS management**, **Jamf Pro automation**, and building tools to make IT life easier. I focus on zero-dependency scripting, security auditing, and user experience.
 
 <br />
 
