@@ -1,16 +1,13 @@
-
 <div align="center">
 
 # Hi there, I'm Mike! 👋
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CE1126&center=true&vCenter=true&width=435&lines=Mac+Administrator+%F0%9F%96%A5%EF%B8%8F;Automation+Engineer+%F0%9F%A4%96;LGRW!+%F0%9F%9A%A8" alt="Mike's Typing Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CE1126&center=true&vCenter=true&width=435&lines=Systems+Engineer+%E2%9A%99%EF%B8%8F;Mac+Administrator+%F0%9F%96%A5%EF%B8%8F;Automation+Engineer+%F0%9F%A4%96;LGRW!+%F0%9F%9A%A8" alt="Mike's Typing Stats" />
 </a>
 
 <br />
 
-<!-- LGRW Badge -->
 <img src="https://img.shields.io/badge/-LGRW-CE1126?style=for-the-badge&logo=nhl&logoColor=white" alt="LGRW" />
 
 </div>
@@ -21,7 +18,17 @@
 
 ## 👨‍💻 About Me
 
-I specialize in **macOS management**, **Jamf Pro automation**, and building tools to make IT life easier. I focus on zero-dependency scripting, security auditing, and user experience.
+I am a **Systems Engineer** specializing in **macOS management**, **Jamf Pro automation**, and building tools to make IT life easier. I focus on zero-dependency scripting, security auditing, and user experience.
+
+<br />
+
+### 📜 Certifications
+
+<p align="left">
+<img src="https://img.shields.io/badge/CISSP-000000?style=flat-square&logo=isc2&logoColor=white" alt="CISSP" />
+<img src="https://img.shields.io/badge/Security%2B-FF6600?style=flat-square&logo=comptia&logoColor=white" alt="Security+" />
+<img src="https://img.shields.io/badge/Network%2B-007ACC?style=flat-square&logo=comptia&logoColor=white" alt="Network+" />
+</p>
 
 <br />
 
@@ -43,9 +50,9 @@ I specialize in **macOS management**, **Jamf Pro automation**, and building tool
 
 #### 📂 <a href="https://github.com/mblazoff/Jamf-EA-Audit">Jamf-EA-Audit</a>
 **A robust, zero-dependency tool to audit and benchmark Jamf Pro Extension Attributes.**
-*   ⚡️ **Performance**: Measures execution time down to the millisecond.
-*   🔒 **Security**: Runs locally in a standardized loop to identify slow or broken scripts.
-*   💻 **Tech**: Bash ∙ Perl ∙ Awk
+* ⚡️ **Performance**: Measures execution time down to the millisecond.
+* 🔒 **Security**: Runs locally in a standardized loop to identify slow or broken scripts.
+* 💻 **Tech**: Bash ∙ Perl ∙ Awk
 
 <br />
 <hr />
@@ -66,5 +73,5 @@ I specialize in **macOS management**, **Jamf Pro automation**, and building tool
 
 ### 📫 Connect
 
-*   [LinkedIn](https://www.linkedin.com/in/michael-blazoff-67318256/)
-*   [MacAdmins Slack](https://macadmins.slack.com/team/U092MGB3M53)
+* [LinkedIn](https://www.linkedin.com/in/michael-blazoff-67318256/)
+* [MacAdmins Slack](https://macadmins.slack.com/team/U092MGB3M53)
